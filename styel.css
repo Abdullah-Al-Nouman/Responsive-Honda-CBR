@@ -1,0 +1,46 @@
+/* scalling image to grey theme */
+.gray-img{
+    filter: grayscale(100%);
+}
+
+/*----------------------
+ratings part design 
+-----------------------*/
+
+.fa-star{
+    font-size: 12px;
+    align-items: center;
+  }
+  
+  .fa-star.filled{
+      color: #FFC014;
+  
+  }
+   .fa-star.empty{
+      color: black;
+  
+  } 
+  
+  /* Desigining text color  */
+  .text-design{
+      color: orange;
+  }
+  .another-text-design{
+      color: green;
+      font-weight: 700;
+      
+
+  }
+  .text-design-2{
+      color: blueviolet;
+      font-size: 15px;
+  }
+  .text-design-3{
+      font-size: 15px;
+  }
+  
+  /* fixing font size */
+  .font{
+      font-size: 48px;
+      font-weight: 700;
+  }
